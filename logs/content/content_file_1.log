@@ -1,0 +1,689 @@
+[06-02-2016 :: 14:46:48] [General] Content server started
+[06-02-2016 :: 14:46:48] [General] New chat file started.
+[06-02-2016 :: 14:46:57] [LoginPacket] New connection from 192.168.0.3:56767 on socket-position:(396:1)
+[06-02-2016 :: 14:46:57] [ContentPacket] 
+	 Begin Packet Process: size:(4) op_value:(165) data3:()
+[06-02-2016 :: 14:46:57] [ContentPacket] SERVERTALK1 - case:(165) packet_size:(4) socket:(396) position:(1)
+[06-02-2016 :: 14:46:57] [General] Login server connected on socket-position:(396:1)
+[06-02-2016 :: 14:46:57] [ContentPacket] SEND: packet_type:(4) size:(8) s_op_value:(165!) data_pos1:() data_pos2:()
+[06-02-2016 :: 14:47:09] [ContentPacket] 
+	 Begin Packet Process: size:(4) op_value:(22) data3:()
+[06-02-2016 :: 14:47:09] [ContentPacket] BAD_LOG - case:(22) data_size:(4) socket:(396) position:(1)
+[06-02-2016 :: 14:47:09] [ContentPacket] SPC_CONTENT_EMPTY - case:(22) socket:(396) position:(1)
+[06-02-2016 :: 14:47:09] [ContentPacket] SEND: packet_type:(4) size:(8) s_op_value:(22!!) data_pos1:() data_pos2:()
+[06-02-2016 :: 14:47:12] [ContentPacket] 
+	 Begin Packet Process: size:(4) op_value:(183) data3:()
+[06-02-2016 :: 14:47:18] [ContentPacket] 
+	 Begin Packet Process: size:(28) op_value:(21) data3:(3)
+[06-02-2016 :: 14:47:18] [ContentPacket] SERVERTALK3 - case:(21) acctID:(3) code:(2352) packet_size:(4) socket:(396) position:(1)
+[06-02-2016 :: 14:47:19] [LoginPacket] New connection from 192.168.0.3:56780 on socket-position:(392:2)
+[06-02-2016 :: 14:47:19] [ContentPacket] 
+	 Begin Packet Process: size:(28) op_value:(23) data3:(3)
+[06-02-2016 :: 14:47:19] [ContentPacket] CONNECT - case:(23) acctID:(3) code:(2352) packet_size:(4) socket:(392) position:(2)
+[06-02-2016 :: 14:47:19] [ContentPacket] SEND: packet_type:(4) size:(8) s_op_value:(24!!) data_pos1:() data_pos2:()
+[06-02-2016 :: 14:47:19] [ContentPacket] 
+	 Begin Packet Process: size:(16) op_value:(24) data3:(adrian)
+[06-02-2016 :: 14:47:19] [ContentPacket] VALIDATE_CREDS - case:(24) name:(adrian) packet_size:(4) socket:(392) position:(2)
+[06-02-2016 :: 14:47:19] [General] User login(adrian)
+[06-02-2016 :: 14:47:19] [ContentPacket] SEND: packet_type:(7) size:(32) s_op_value:(161!) data_pos1:(51!!!!!!!!!!) data_pos2:(1676)
+[06-02-2016 :: 14:47:21] [ContentPacket] SEND: packet_type:(4) size:(8) s_op_value:(183!) data_pos1:() data_pos2:()
+[06-02-2016 :: 14:47:21] [ContentPacket] 
+	 Begin Packet Process: size:(4) op_value:(22) data3:()
+[06-02-2016 :: 14:47:21] [ContentPacket] BAD_LOG - case:(22) data_size:(4) socket:(396) position:(1)
+[06-02-2016 :: 14:47:21] [ContentPacket] SPC_CONTENT_NUMBER - case:(22) input1:(3!!!) socket:(396) position:(1)
+[06-02-2016 :: 14:47:21] [ContentPacket] SEND: packet_type:(5) size:(12) s_op_value:(22!!) data_pos1:(3!!!) data_pos2:()
+[06-02-2016 :: 14:47:26] [ContentPacket] 
+	 Begin Packet Process: size:(4) op_value:(161) data3:()
+[06-02-2016 :: 14:47:26] [ContentPacket] VALID_CREDS - case:(161) packet_size:(4) socket:(392) position:(2)
+[06-02-2016 :: 14:47:26] [ContentPacket] SEND: packet_type:(4) size:(8) s_op_value:(157!) data_pos1:() data_pos2:()
+[06-02-2016 :: 14:47:27] [ContentPacket] 
+	 Begin Packet Process: size:(4) op_value:(183) data3:()
+[06-02-2016 :: 14:47:33] [ContentPacket] 
+	 Begin Packet Process: size:(4) op_value:(22) data3:()
+[06-02-2016 :: 14:47:33] [ContentPacket] BAD_LOG - case:(22) data_size:(4) socket:(396) position:(1)
+[06-02-2016 :: 14:47:33] [ContentPacket] SPC_CONTENT_NUMBER - case:(22) input1:(3!!!) socket:(396) position:(1)
+[06-02-2016 :: 14:47:33] [ContentPacket] SEND: packet_type:(5) size:(12) s_op_value:(22!!) data_pos1:(3!!!) data_pos2:()
+[06-02-2016 :: 14:47:42] [ContentPacket] 
+	 Begin Packet Process: size:(4) op_value:(183) data3:()
+[06-02-2016 :: 14:47:45] [ContentPacket] SEND: packet_type:(4) size:(8) s_op_value:(183!) data_pos1:() data_pos2:()
+[06-02-2016 :: 14:47:45] [ContentPacket] 
+	 Begin Packet Process: size:(4) op_value:(22) data3:()
+[06-02-2016 :: 14:47:45] [ContentPacket] BAD_LOG - case:(22) data_size:(4) socket:(396) position:(1)
+[06-02-2016 :: 14:47:45] [ContentPacket] SPC_CONTENT_NUMBER - case:(22) input1:(3!!!) socket:(396) position:(1)
+[06-02-2016 :: 14:47:45] [ContentPacket] SEND: packet_type:(5) size:(12) s_op_value:(22!!) data_pos1:(3!!!) data_pos2:()
+[06-02-2016 :: 14:47:57] [ContentPacket] 
+	 Begin Packet Process: size:(4) op_value:(183) data3:()
+[06-02-2016 :: 14:47:57] [ContentPacket] 
+	 Begin Packet Process: size:(4) op_value:(22) data3:()
+[06-02-2016 :: 14:47:57] [ContentPacket] BAD_LOG - case:(22) data_size:(4) socket:(396) position:(1)
+[06-02-2016 :: 14:47:57] [ContentPacket] SPC_CONTENT_NUMBER - case:(22) input1:(3!!!) socket:(396) position:(1)
+[06-02-2016 :: 14:47:57] [ContentPacket] SEND: packet_type:(5) size:(12) s_op_value:(22!!) data_pos1:(3!!!) data_pos2:()
+[06-02-2016 :: 14:48:09] [ContentPacket] SEND: packet_type:(4) size:(8) s_op_value:(183!) data_pos1:() data_pos2:()
+[06-02-2016 :: 14:48:09] [ContentPacket] 
+	 Begin Packet Process: size:(4) op_value:(22) data3:()
+[06-02-2016 :: 14:48:09] [ContentPacket] BAD_LOG - case:(22) data_size:(4) socket:(396) position:(1)
+[06-02-2016 :: 14:48:09] [ContentPacket] SPC_CONTENT_NUMBER - case:(22) input1:(3!!!) socket:(396) position:(1)
+[06-02-2016 :: 14:48:09] [ContentPacket] SEND: packet_type:(5) size:(12) s_op_value:(22!!) data_pos1:(3!!!) data_pos2:()
+[06-02-2016 :: 14:48:12] [ContentPacket] 
+	 Begin Packet Process: size:(4) op_value:(183) data3:()
+[06-02-2016 :: 14:48:21] [ContentPacket] 
+	 Begin Packet Process: size:(4) op_value:(22) data3:()
+[06-02-2016 :: 14:48:21] [ContentPacket] BAD_LOG - case:(22) data_size:(4) socket:(396) position:(1)
+[06-02-2016 :: 14:48:21] [ContentPacket] SPC_CONTENT_NUMBER - case:(22) input1:(3!!!) socket:(396) position:(1)
+[06-02-2016 :: 14:48:21] [ContentPacket] SEND: packet_type:(5) size:(12) s_op_value:(22!!) data_pos1:(3!!!) data_pos2:()
+[06-02-2016 :: 14:48:23] [ContentPacket] 
+	 Begin Packet Process: size:(4) op_value:(198) data3:()
+[06-02-2016 :: 14:48:23] [ContentPacket] CHAT_PROBATION_EXPIRE - case:(198) packet_size:(4) socket:(392) position:(2)
+[06-02-2016 :: 14:48:27] [ContentPacket] 
+	 Begin Packet Process: size:(4) op_value:(183) data3:()
+[06-02-2016 :: 14:48:33] [ContentPacket] SEND: packet_type:(4) size:(8) s_op_value:(183!) data_pos1:() data_pos2:()
+[06-02-2016 :: 14:48:33] [ContentPacket] 
+	 Begin Packet Process: size:(4) op_value:(22) data3:()
+[06-02-2016 :: 14:48:33] [ContentPacket] BAD_LOG - case:(22) data_size:(4) socket:(396) position:(1)
+[06-02-2016 :: 14:48:33] [ContentPacket] SPC_CONTENT_NUMBER - case:(22) input1:(3!!!) socket:(396) position:(1)
+[06-02-2016 :: 14:48:33] [ContentPacket] SEND: packet_type:(5) size:(12) s_op_value:(22!!) data_pos1:(3!!!) data_pos2:()
+[06-02-2016 :: 14:48:42] [ContentPacket] 
+	 Begin Packet Process: size:(4) op_value:(183) data3:()
+[06-02-2016 :: 14:48:46] [ContentPacket] 
+	 Begin Packet Process: size:(4) op_value:(22) data3:()
+[06-02-2016 :: 14:48:46] [ContentPacket] BAD_LOG - case:(22) data_size:(4) socket:(396) position:(1)
+[06-02-2016 :: 14:48:46] [ContentPacket] SPC_CONTENT_NUMBER - case:(22) input1:(3!!!) socket:(396) position:(1)
+[06-02-2016 :: 14:48:46] [ContentPacket] SEND: packet_type:(5) size:(12) s_op_value:(22!!) data_pos1:(3!!!) data_pos2:()
+[06-02-2016 :: 14:48:57] [ContentPacket] SEND: packet_type:(4) size:(8) s_op_value:(183!) data_pos1:() data_pos2:()
+[06-02-2016 :: 14:48:57] [ContentPacket] 
+	 Begin Packet Process: size:(4) op_value:(183) data3:()
+[06-02-2016 :: 14:48:58] [ContentPacket] 
+	 Begin Packet Process: size:(4) op_value:(22) data3:()
+[06-02-2016 :: 14:48:58] [ContentPacket] BAD_LOG - case:(22) data_size:(4) socket:(396) position:(1)
+[06-02-2016 :: 14:48:58] [ContentPacket] SPC_CONTENT_NUMBER - case:(22) input1:(3!!!) socket:(396) position:(1)
+[06-02-2016 :: 14:48:58] [ContentPacket] SEND: packet_type:(5) size:(12) s_op_value:(22!!) data_pos1:(3!!!) data_pos2:()
+[06-02-2016 :: 14:49:10] [ContentPacket] 
+	 Begin Packet Process: size:(4) op_value:(22) data3:()
+[06-02-2016 :: 14:49:10] [ContentPacket] BAD_LOG - case:(22) data_size:(4) socket:(396) position:(1)
+[06-02-2016 :: 14:49:10] [ContentPacket] SPC_CONTENT_NUMBER - case:(22) input1:(3!!!) socket:(396) position:(1)
+[06-02-2016 :: 14:49:10] [ContentPacket] SEND: packet_type:(5) size:(12) s_op_value:(22!!) data_pos1:(3!!!) data_pos2:()
+[06-02-2016 :: 14:49:12] [ContentPacket] 
+	 Begin Packet Process: size:(4) op_value:(183) data3:()
+[06-02-2016 :: 14:49:21] [ContentPacket] SEND: packet_type:(4) size:(8) s_op_value:(183!) data_pos1:() data_pos2:()
+[06-02-2016 :: 14:49:22] [ContentPacket] 
+	 Begin Packet Process: size:(4) op_value:(22) data3:()
+[06-02-2016 :: 14:49:22] [ContentPacket] BAD_LOG - case:(22) data_size:(4) socket:(396) position:(1)
+[06-02-2016 :: 14:49:22] [ContentPacket] SPC_CONTENT_NUMBER - case:(22) input1:(3!!!) socket:(396) position:(1)
+[06-02-2016 :: 14:49:22] [ContentPacket] SEND: packet_type:(5) size:(12) s_op_value:(22!!) data_pos1:(3!!!) data_pos2:()
+[06-02-2016 :: 14:49:27] [ContentPacket] 
+	 Begin Packet Process: size:(4) op_value:(183) data3:()
+[06-02-2016 :: 14:49:34] [ContentPacket] 
+	 Begin Packet Process: size:(4) op_value:(22) data3:()
+[06-02-2016 :: 14:49:34] [ContentPacket] BAD_LOG - case:(22) data_size:(4) socket:(396) position:(1)
+[06-02-2016 :: 14:49:34] [ContentPacket] SPC_CONTENT_NUMBER - case:(22) input1:(3!!!) socket:(396) position:(1)
+[06-02-2016 :: 14:49:34] [ContentPacket] SEND: packet_type:(5) size:(12) s_op_value:(22!!) data_pos1:(3!!!) data_pos2:()
+[06-02-2016 :: 14:49:43] [ContentPacket] 
+	 Begin Packet Process: size:(4) op_value:(183) data3:()
+[06-02-2016 :: 14:49:45] [ContentPacket] SEND: packet_type:(4) size:(8) s_op_value:(183!) data_pos1:() data_pos2:()
+[06-02-2016 :: 14:49:46] [ContentPacket] 
+	 Begin Packet Process: size:(4) op_value:(22) data3:()
+[06-02-2016 :: 14:49:46] [ContentPacket] BAD_LOG - case:(22) data_size:(4) socket:(396) position:(1)
+[06-02-2016 :: 14:49:46] [ContentPacket] SPC_CONTENT_NUMBER - case:(22) input1:(3!!!) socket:(396) position:(1)
+[06-02-2016 :: 14:49:46] [ContentPacket] SEND: packet_type:(5) size:(12) s_op_value:(22!!) data_pos1:(3!!!) data_pos2:()
+[06-02-2016 :: 14:49:58] [ContentPacket] 
+	 Begin Packet Process: size:(4) op_value:(183) data3:()
+[06-02-2016 :: 14:49:58] [ContentPacket] 
+	 Begin Packet Process: size:(4) op_value:(22) data3:()
+[06-02-2016 :: 14:49:58] [ContentPacket] BAD_LOG - case:(22) data_size:(4) socket:(396) position:(1)
+[06-02-2016 :: 14:49:58] [ContentPacket] SPC_CONTENT_NUMBER - case:(22) input1:(3!!!) socket:(396) position:(1)
+[06-02-2016 :: 14:49:58] [ContentPacket] SEND: packet_type:(5) size:(12) s_op_value:(22!!) data_pos1:(3!!!) data_pos2:()
+[06-02-2016 :: 14:50:09] [ContentPacket] SEND: packet_type:(4) size:(8) s_op_value:(183!) data_pos1:() data_pos2:()
+[06-02-2016 :: 14:50:10] [ContentPacket] 
+	 Begin Packet Process: size:(4) op_value:(22) data3:()
+[06-02-2016 :: 14:50:10] [ContentPacket] BAD_LOG - case:(22) data_size:(4) socket:(396) position:(1)
+[06-02-2016 :: 14:50:10] [ContentPacket] SPC_CONTENT_NUMBER - case:(22) input1:(3!!!) socket:(396) position:(1)
+[06-02-2016 :: 14:50:10] [ContentPacket] SEND: packet_type:(5) size:(12) s_op_value:(22!!) data_pos1:(3!!!) data_pos2:()
+[06-02-2016 :: 14:50:13] [ContentPacket] 
+	 Begin Packet Process: size:(4) op_value:(183) data3:()
+[06-02-2016 :: 14:50:22] [ContentPacket] 
+	 Begin Packet Process: size:(4) op_value:(22) data3:()
+[06-02-2016 :: 14:50:22] [ContentPacket] BAD_LOG - case:(22) data_size:(4) socket:(396) position:(1)
+[06-02-2016 :: 14:50:22] [ContentPacket] SPC_CONTENT_NUMBER - case:(22) input1:(3!!!) socket:(396) position:(1)
+[06-02-2016 :: 14:50:22] [ContentPacket] SEND: packet_type:(5) size:(12) s_op_value:(22!!) data_pos1:(3!!!) data_pos2:()
+[06-02-2016 :: 14:50:28] [ContentPacket] 
+	 Begin Packet Process: size:(4) op_value:(183) data3:()
+[06-02-2016 :: 14:50:33] [ContentPacket] SEND: packet_type:(4) size:(8) s_op_value:(183!) data_pos1:() data_pos2:()
+[06-02-2016 :: 14:50:33] [ContentPacket] SEND: packet_type:(4) size:(8) s_op_value:(177!) data_pos1:() data_pos2:()
+[06-02-2016 :: 14:50:34] [ContentPacket] 
+	 Begin Packet Process: size:(4) op_value:(22) data3:()
+[06-02-2016 :: 14:50:34] [ContentPacket] BAD_LOG - case:(22) data_size:(4) socket:(396) position:(1)
+[06-02-2016 :: 14:50:34] [ContentPacket] SPC_CONTENT_NUMBER - case:(22) input1:(3!!!) socket:(396) position:(1)
+[06-02-2016 :: 14:50:34] [ContentPacket] SEND: packet_type:(5) size:(12) s_op_value:(22!!) data_pos1:(3!!!) data_pos2:()
+[06-02-2016 :: 14:50:43] [ContentPacket] 
+	 Begin Packet Process: size:(4) op_value:(183) data3:()
+[06-02-2016 :: 14:50:46] [ContentPacket] 
+	 Begin Packet Process: size:(4) op_value:(22) data3:()
+[06-02-2016 :: 14:50:46] [ContentPacket] BAD_LOG - case:(22) data_size:(4) socket:(396) position:(1)
+[06-02-2016 :: 14:50:46] [ContentPacket] SPC_CONTENT_NUMBER - case:(22) input1:(3!!!) socket:(396) position:(1)
+[06-02-2016 :: 14:50:46] [ContentPacket] SEND: packet_type:(5) size:(12) s_op_value:(22!!) data_pos1:(3!!!) data_pos2:()
+[06-02-2016 :: 14:50:57] [ContentPacket] SEND: packet_type:(4) size:(8) s_op_value:(183!) data_pos1:() data_pos2:()
+[06-02-2016 :: 14:50:57] [ContentPacket] SEND: packet_type:(4) size:(8) s_op_value:(177!) data_pos1:() data_pos2:()
+[06-02-2016 :: 14:50:58] [ContentPacket] 
+	 Begin Packet Process: size:(4) op_value:(183) data3:()
+[06-02-2016 :: 14:50:58] [ContentPacket] 
+	 Begin Packet Process: size:(4) op_value:(22) data3:()
+[06-02-2016 :: 14:50:58] [ContentPacket] BAD_LOG - case:(22) data_size:(4) socket:(396) position:(1)
+[06-02-2016 :: 14:50:58] [ContentPacket] SPC_CONTENT_NUMBER - case:(22) input1:(3!!!) socket:(396) position:(1)
+[06-02-2016 :: 14:50:58] [ContentPacket] SEND: packet_type:(5) size:(12) s_op_value:(22!!) data_pos1:(3!!!) data_pos2:()
+[06-02-2016 :: 14:51:10] [ContentPacket] 
+	 Begin Packet Process: size:(4) op_value:(22) data3:()
+[06-02-2016 :: 14:51:10] [ContentPacket] BAD_LOG - case:(22) data_size:(4) socket:(396) position:(1)
+[06-02-2016 :: 14:51:10] [ContentPacket] SPC_CONTENT_NUMBER - case:(22) input1:(3!!!) socket:(396) position:(1)
+[06-02-2016 :: 14:51:10] [ContentPacket] SEND: packet_type:(5) size:(12) s_op_value:(22!!) data_pos1:(3!!!) data_pos2:()
+[06-02-2016 :: 14:51:13] [ContentPacket] 
+	 Begin Packet Process: size:(4) op_value:(183) data3:()
+[06-02-2016 :: 14:51:21] [ContentPacket] SEND: packet_type:(4) size:(8) s_op_value:(183!) data_pos1:() data_pos2:()
+[06-02-2016 :: 14:51:21] [ContentPacket] SEND: packet_type:(4) size:(8) s_op_value:(177!) data_pos1:() data_pos2:()
+[06-02-2016 :: 14:51:22] [ContentPacket] 
+	 Begin Packet Process: size:(4) op_value:(22) data3:()
+[06-02-2016 :: 14:51:22] [ContentPacket] BAD_LOG - case:(22) data_size:(4) socket:(396) position:(1)
+[06-02-2016 :: 14:51:22] [ContentPacket] SPC_CONTENT_NUMBER - case:(22) input1:(3!!!) socket:(396) position:(1)
+[06-02-2016 :: 14:51:22] [ContentPacket] SEND: packet_type:(5) size:(12) s_op_value:(22!!) data_pos1:(3!!!) data_pos2:()
+[06-02-2016 :: 14:51:28] [ContentPacket] 
+	 Begin Packet Process: size:(4) op_value:(183) data3:()
+[06-02-2016 :: 14:51:34] [ContentPacket] 
+	 Begin Packet Process: size:(4) op_value:(22) data3:()
+[06-02-2016 :: 14:51:34] [ContentPacket] BAD_LOG - case:(22) data_size:(4) socket:(396) position:(1)
+[06-02-2016 :: 14:51:34] [ContentPacket] SPC_CONTENT_NUMBER - case:(22) input1:(3!!!) socket:(396) position:(1)
+[06-02-2016 :: 14:51:34] [ContentPacket] SEND: packet_type:(5) size:(12) s_op_value:(22!!) data_pos1:(3!!!) data_pos2:()
+[06-02-2016 :: 14:51:43] [ContentPacket] 
+	 Begin Packet Process: size:(4) op_value:(183) data3:()
+[06-02-2016 :: 14:51:46] [ContentPacket] SEND: packet_type:(4) size:(8) s_op_value:(183!) data_pos1:() data_pos2:()
+[06-02-2016 :: 14:51:46] [ContentPacket] SEND: packet_type:(4) size:(8) s_op_value:(177!) data_pos1:() data_pos2:()
+[06-02-2016 :: 14:51:46] [ContentPacket] 
+	 Begin Packet Process: size:(4) op_value:(22) data3:()
+[06-02-2016 :: 14:51:46] [ContentPacket] BAD_LOG - case:(22) data_size:(4) socket:(396) position:(1)
+[06-02-2016 :: 14:51:46] [ContentPacket] SPC_CONTENT_NUMBER - case:(22) input1:(3!!!) socket:(396) position:(1)
+[06-02-2016 :: 14:51:46] [ContentPacket] SEND: packet_type:(5) size:(12) s_op_value:(22!!) data_pos1:(3!!!) data_pos2:()
+[06-02-2016 :: 14:51:58] [ContentPacket] 
+	 Begin Packet Process: size:(4) op_value:(183) data3:()
+[06-02-2016 :: 14:51:58] [ContentPacket] 
+	 Begin Packet Process: size:(4) op_value:(22) data3:()
+[06-02-2016 :: 14:51:58] [ContentPacket] BAD_LOG - case:(22) data_size:(4) socket:(396) position:(1)
+[06-02-2016 :: 14:51:58] [ContentPacket] SPC_CONTENT_NUMBER - case:(22) input1:(3!!!) socket:(396) position:(1)
+[06-02-2016 :: 14:51:58] [ContentPacket] SEND: packet_type:(5) size:(12) s_op_value:(22!!) data_pos1:(3!!!) data_pos2:()
+[06-02-2016 :: 14:52:10] [ContentPacket] SEND: packet_type:(4) size:(8) s_op_value:(183!) data_pos1:() data_pos2:()
+[06-02-2016 :: 14:52:10] [ContentPacket] SEND: packet_type:(4) size:(8) s_op_value:(177!) data_pos1:() data_pos2:()
+[06-02-2016 :: 14:52:10] [ContentPacket] 
+	 Begin Packet Process: size:(4) op_value:(22) data3:()
+[06-02-2016 :: 14:52:10] [ContentPacket] BAD_LOG - case:(22) data_size:(4) socket:(396) position:(1)
+[06-02-2016 :: 14:52:10] [ContentPacket] SPC_CONTENT_NUMBER - case:(22) input1:(3!!!) socket:(396) position:(1)
+[06-02-2016 :: 14:52:10] [ContentPacket] SEND: packet_type:(5) size:(12) s_op_value:(22!!) data_pos1:(3!!!) data_pos2:()
+[06-02-2016 :: 14:52:13] [ContentPacket] 
+	 Begin Packet Process: size:(4) op_value:(183) data3:()
+[06-02-2016 :: 14:52:22] [ContentPacket] 
+	 Begin Packet Process: size:(4) op_value:(22) data3:()
+[06-02-2016 :: 14:52:22] [ContentPacket] BAD_LOG - case:(22) data_size:(4) socket:(396) position:(1)
+[06-02-2016 :: 14:52:22] [ContentPacket] SPC_CONTENT_NUMBER - case:(22) input1:(3!!!) socket:(396) position:(1)
+[06-02-2016 :: 14:52:22] [ContentPacket] SEND: packet_type:(5) size:(12) s_op_value:(22!!) data_pos1:(3!!!) data_pos2:()
+[06-02-2016 :: 14:52:28] [ContentPacket] 
+	 Begin Packet Process: size:(4) op_value:(183) data3:()
+[06-02-2016 :: 14:52:34] [ContentPacket] SEND: packet_type:(4) size:(8) s_op_value:(183!) data_pos1:() data_pos2:()
+[06-02-2016 :: 14:52:34] [ContentPacket] SEND: packet_type:(4) size:(8) s_op_value:(178!) data_pos1:() data_pos2:()
+[06-02-2016 :: 14:52:34] [General] User logout(adrian)
+[06-02-2016 :: 14:52:34] [ContentPacket] Removed client connection on socket-position:(392:2)
+[06-02-2016 :: 14:52:35] [ContentPacket] 
+	 Begin Packet Process: size:(4) op_value:(22) data3:()
+[06-02-2016 :: 14:52:35] [ContentPacket] BAD_LOG - case:(22) data_size:(4) socket:(396) position:(1)
+[06-02-2016 :: 14:52:35] [ContentPacket] SPC_CONTENT_EMPTY - case:(22) socket:(396) position:(1)
+[06-02-2016 :: 14:52:35] [ContentPacket] SEND: packet_type:(4) size:(8) s_op_value:(22!!) data_pos1:() data_pos2:()
+[06-02-2016 :: 14:52:43] [ContentPacket] 
+	 Begin Packet Process: size:(4) op_value:(183) data3:()
+[06-02-2016 :: 14:52:47] [ContentPacket] 
+	 Begin Packet Process: size:(4) op_value:(22) data3:()
+[06-02-2016 :: 14:52:47] [ContentPacket] BAD_LOG - case:(22) data_size:(4) socket:(396) position:(1)
+[06-02-2016 :: 14:52:47] [ContentPacket] SPC_CONTENT_EMPTY - case:(22) socket:(396) position:(1)
+[06-02-2016 :: 14:52:47] [ContentPacket] SEND: packet_type:(4) size:(8) s_op_value:(22!!) data_pos1:() data_pos2:()
+[06-02-2016 :: 14:52:58] [ContentPacket] SEND: packet_type:(4) size:(8) s_op_value:(183!) data_pos1:() data_pos2:()
+[06-02-2016 :: 14:52:58] [ContentPacket] 
+	 Begin Packet Process: size:(4) op_value:(183) data3:()
+[06-02-2016 :: 14:52:59] [ContentPacket] 
+	 Begin Packet Process: size:(4) op_value:(22) data3:()
+[06-02-2016 :: 14:52:59] [ContentPacket] BAD_LOG - case:(22) data_size:(4) socket:(396) position:(1)
+[06-02-2016 :: 14:52:59] [ContentPacket] SPC_CONTENT_EMPTY - case:(22) socket:(396) position:(1)
+[06-02-2016 :: 14:52:59] [ContentPacket] SEND: packet_type:(4) size:(8) s_op_value:(22!!) data_pos1:() data_pos2:()
+[06-02-2016 :: 14:53:04] [ContentPacket] 
+	 Begin Packet Process: size:(28) op_value:(21) data3:(3)
+[06-02-2016 :: 14:53:04] [ContentPacket] SERVERTALK3 - case:(21) acctID:(3) code:(4928) packet_size:(4) socket:(396) position:(1)
+[06-02-2016 :: 14:53:05] [LoginPacket] New connection from 192.168.0.3:56899 on socket-position:(412:2)
+[06-02-2016 :: 14:53:05] [ContentPacket] 
+	 Begin Packet Process: size:(28) op_value:(23) data3:(3)
+[06-02-2016 :: 14:53:05] [ContentPacket] CONNECT - case:(23) acctID:(3) code:(4928) packet_size:(4) socket:(412) position:(2)
+[06-02-2016 :: 14:53:05] [ContentPacket] SEND: packet_type:(4) size:(8) s_op_value:(24!!) data_pos1:() data_pos2:()
+[06-02-2016 :: 14:53:05] [ContentPacket] 
+	 Begin Packet Process: size:(16) op_value:(24) data3:(adrian)
+[06-02-2016 :: 14:53:05] [ContentPacket] VALIDATE_CREDS - case:(24) name:(adrian) packet_size:(4) socket:(412) position:(2)
+[06-02-2016 :: 14:53:05] [General] User login(adrian)
+[06-02-2016 :: 14:53:05] [ContentPacket] SEND: packet_type:(7) size:(32) s_op_value:(161!) data_pos1:(52!!!!!!!!!!) data_pos2:(1649)
+[06-02-2016 :: 14:53:11] [ContentPacket] 
+	 Begin Packet Process: size:(4) op_value:(22) data3:()
+[06-02-2016 :: 14:53:11] [ContentPacket] BAD_LOG - case:(22) data_size:(4) socket:(396) position:(1)
+[06-02-2016 :: 14:53:11] [ContentPacket] SPC_CONTENT_NUMBER - case:(22) input1:(3!!!) socket:(396) position:(1)
+[06-02-2016 :: 14:53:11] [ContentPacket] SEND: packet_type:(5) size:(12) s_op_value:(22!!) data_pos1:(3!!!) data_pos2:()
+[06-02-2016 :: 14:53:12] [ContentPacket] 
+	 Begin Packet Process: size:(4) op_value:(161) data3:()
+[06-02-2016 :: 14:53:12] [ContentPacket] VALID_CREDS - case:(161) packet_size:(4) socket:(412) position:(2)
+[06-02-2016 :: 14:53:12] [ContentPacket] SEND: packet_type:(4) size:(8) s_op_value:(157!) data_pos1:() data_pos2:()
+[06-02-2016 :: 14:53:13] [ContentPacket] 
+	 Begin Packet Process: size:(4) op_value:(183) data3:()
+[06-02-2016 :: 14:53:16] [ContentPacket] 
+	 Begin Packet Process: size:(28) op_value:(21) data3:(4)
+[06-02-2016 :: 14:53:16] [ContentPacket] SERVERTALK3 - case:(21) acctID:(4) code:(4738) packet_size:(4) socket:(396) position:(1)
+[06-02-2016 :: 14:53:17] [LoginPacket] New connection from 192.168.0.3:56919 on socket-position:(408:3)
+[06-02-2016 :: 14:53:17] [ContentPacket] 
+	 Begin Packet Process: size:(28) op_value:(23) data3:(4)
+[06-02-2016 :: 14:53:17] [ContentPacket] CONNECT - case:(23) acctID:(4) code:(4738) packet_size:(4) socket:(408) position:(3)
+[06-02-2016 :: 14:53:17] [ContentPacket] SEND: packet_type:(4) size:(8) s_op_value:(24!!) data_pos1:() data_pos2:()
+[06-02-2016 :: 14:53:17] [ContentPacket] 
+	 Begin Packet Process: size:(16) op_value:(24) data3:(greg)
+[06-02-2016 :: 14:53:17] [ContentPacket] VALIDATE_CREDS - case:(24) name:(greg) packet_size:(4) socket:(408) position:(3)
+[06-02-2016 :: 14:53:17] [General] User login(greg)
+[06-02-2016 :: 14:53:17] [ContentPacket] SEND: packet_type:(7) size:(32) s_op_value:(161!) data_pos1:(28!!!!!!!!!!) data_pos2:(4766)
+[06-02-2016 :: 14:53:17] [ContentPacket] 
+	 Begin Packet Process: size:(4) op_value:(224) data3:()
+[06-02-2016 :: 14:53:17] [ContentPacket] CHAT_MENU - case:(224) data_size:(4) socket:(412) position:(2)
+[06-02-2016 :: 14:53:17] [ContentPacket] SEND: packet_type:(4) size:(8) s_op_value:(224!) data_pos1:() data_pos2:()
+[06-02-2016 :: 14:53:22] [ContentPacket] SEND: packet_type:(4) size:(8) s_op_value:(183!) data_pos1:() data_pos2:()
+[06-02-2016 :: 14:53:23] [ContentPacket] 
+	 Begin Packet Process: size:(4) op_value:(22) data3:()
+[06-02-2016 :: 14:53:23] [ContentPacket] BAD_LOG - case:(22) data_size:(4) socket:(396) position:(1)
+[06-02-2016 :: 14:53:23] [ContentPacket] SPC_CONTENT_NUMBER - case:(22) input1:(3!!!4!!!) socket:(396) position:(1)
+[06-02-2016 :: 14:53:23] [ContentPacket] SEND: packet_type:(5) size:(16) s_op_value:(22!!) data_pos1:(3!!!4!!!) data_pos2:()
+[06-02-2016 :: 14:53:24] [ContentPacket] 
+	 Begin Packet Process: size:(4) op_value:(161) data3:()
+[06-02-2016 :: 14:53:24] [ContentPacket] VALID_CREDS - case:(161) packet_size:(4) socket:(408) position:(3)
+[06-02-2016 :: 14:53:24] [ContentPacket] SEND: packet_type:(4) size:(8) s_op_value:(157!) data_pos1:() data_pos2:()
+[06-02-2016 :: 14:53:28] [ContentPacket] 
+	 Begin Packet Process: size:(4) op_value:(183) data3:()
+[06-02-2016 :: 14:53:28] [ContentPacket] 
+	 Begin Packet Process: size:(4) op_value:(224) data3:()
+[06-02-2016 :: 14:53:28] [ContentPacket] CHAT_MENU - case:(224) data_size:(4) socket:(408) position:(3)
+[06-02-2016 :: 14:53:28] [ContentPacket] SEND: packet_type:(4) size:(8) s_op_value:(224!) data_pos1:() data_pos2:()
+[06-02-2016 :: 14:53:32] [ContentPacket] 
+	 Begin Packet Process: size:(4) op_value:(194) data3:()
+[06-02-2016 :: 14:53:32] [ContentPacket] CHAT_BEGIN - case:(194) packet_size:(4) socket:(408) position:(3)
+[06-02-2016 :: 14:53:32] [ContentPacket] SEND: packet_type:(4) size:(8) s_op_value:(194!) data_pos1:() data_pos2:()
+[06-02-2016 :: 14:53:35] [ContentPacket] 
+	 Begin Packet Process: size:(4) op_value:(22) data3:()
+[06-02-2016 :: 14:53:35] [ContentPacket] BAD_LOG - case:(22) data_size:(4) socket:(396) position:(1)
+[06-02-2016 :: 14:53:35] [ContentPacket] SPC_CONTENT_NUMBER - case:(22) input1:(3!!!4!!!) socket:(396) position:(1)
+[06-02-2016 :: 14:53:35] [ContentPacket] SEND: packet_type:(5) size:(16) s_op_value:(22!!) data_pos1:(3!!!4!!!) data_pos2:()
+[06-02-2016 :: 14:53:39] [ContentPacket] 
+	 Begin Packet Process: size:(4) op_value:(194) data3:()
+[06-02-2016 :: 14:53:39] [ContentPacket] CHAT_BEGIN - case:(194) packet_size:(4) socket:(412) position:(2)
+[06-02-2016 :: 14:53:39] [ContentPacket] SEND: packet_type:(6) size:(20) s_op_value:(30!!) data_pos1:(adrian) data_pos2:()
+[06-02-2016 :: 14:53:39] [ContentPacket] SEND: packet_type:(4) size:(8) s_op_value:(194!) data_pos1:() data_pos2:()
+[06-02-2016 :: 14:53:43] [ContentPacket] 
+	 Begin Packet Process: size:(4) op_value:(183) data3:()
+[06-02-2016 :: 14:53:46] [ContentPacket] SEND: packet_type:(4) size:(8) s_op_value:(183!) data_pos1:() data_pos2:()
+[06-02-2016 :: 14:53:47] [ContentPacket] 
+	 Begin Packet Process: size:(4) op_value:(22) data3:()
+[06-02-2016 :: 14:53:47] [ContentPacket] BAD_LOG - case:(22) data_size:(4) socket:(396) position:(1)
+[06-02-2016 :: 14:53:47] [ContentPacket] SPC_CONTENT_NUMBER - case:(22) input1:(4!!!3!!!) socket:(396) position:(1)
+[06-02-2016 :: 14:53:47] [ContentPacket] SEND: packet_type:(5) size:(16) s_op_value:(22!!) data_pos1:(4!!!3!!!) data_pos2:()
+[06-02-2016 :: 14:53:47] [ContentPacket] 
+	 Begin Packet Process: size:(7) op_value:(28) data3:(hey43)
+[06-02-2016 :: 14:53:47] [ContentPacket] CHAT_OUT_SAY - case:(28) input(hey) data_size:(7) socket:(408) position:(3)
+[06-02-2016 :: 14:53:47] [ContentPacket] SEND: packet_type:(8) size:(23) s_op_value:(26!!) data_pos1:(greg!!!!!!!!) data_pos2:(hey)
+[06-02-2016 :: 14:53:47] [ContentPacket] SEND: packet_type:(4) size:(8) s_op_value:(195!) data_pos1:() data_pos2:()
+[06-02-2016 :: 14:53:52] [ContentPacket] 
+	 Begin Packet Process: size:(11) op_value:(28) data3:(hellog)
+[06-02-2016 :: 14:53:52] [ContentPacket] CHAT_OUT_SAY - case:(28) input(hello!!) data_size:(11) socket:(412) position:(2)
+[06-02-2016 :: 14:53:52] [ContentPacket] SEND: packet_type:(8) size:(27) s_op_value:(26!!) data_pos1:(adrian!!!!!!) data_pos2:(hello!!)
+[06-02-2016 :: 14:53:52] [ContentPacket] SEND: packet_type:(4) size:(8) s_op_value:(195!) data_pos1:() data_pos2:()
+[06-02-2016 :: 14:53:57] [ContentPacket] 
+	 Begin Packet Process: size:(12) op_value:(28) data3:(dklsaflkan)
+[06-02-2016 :: 14:53:57] [ContentPacket] CHAT_OUT_SAY - case:(28) input(dklsaflk) data_size:(12) socket:(412) position:(2)
+[06-02-2016 :: 14:53:57] [ContentPacket] SEND: packet_type:(8) size:(28) s_op_value:(26!!) data_pos1:(adrian!!!!!!) data_pos2:(dklsaflk)
+[06-02-2016 :: 14:53:57] [ContentPacket] SEND: packet_type:(4) size:(8) s_op_value:(195!) data_pos1:() data_pos2:()
+[06-02-2016 :: 14:53:58] [ContentPacket] 
+	 Begin Packet Process: size:(4) op_value:(183) data3:()
+[06-02-2016 :: 14:53:59] [ContentPacket] 
+	 Begin Packet Process: size:(4) op_value:(22) data3:()
+[06-02-2016 :: 14:53:59] [ContentPacket] BAD_LOG - case:(22) data_size:(4) socket:(396) position:(1)
+[06-02-2016 :: 14:53:59] [ContentPacket] SPC_CONTENT_NUMBER - case:(22) input1:(4!!!3!!!) socket:(396) position:(1)
+[06-02-2016 :: 14:53:59] [ContentPacket] SEND: packet_type:(5) size:(16) s_op_value:(22!!) data_pos1:(4!!!3!!!) data_pos2:()
+[06-02-2016 :: 14:54:03] [ContentPacket] 
+	 Begin Packet Process: size:(8) op_value:(28) data3:(hey43)
+[06-02-2016 :: 14:54:03] [ContentPacket] CHAT_OUT_SAY - case:(28) input(hey!) data_size:(8) socket:(408) position:(3)
+[06-02-2016 :: 14:54:03] [ContentPacket] SEND: packet_type:(8) size:(24) s_op_value:(26!!) data_pos1:(greg!!!!!!!!) data_pos2:(hey!)
+[06-02-2016 :: 14:54:03] [ContentPacket] SEND: packet_type:(4) size:(8) s_op_value:(195!) data_pos1:() data_pos2:()
+[06-02-2016 :: 14:54:09] [ContentPacket] 
+	 Begin Packet Process: size:(4) op_value:(198) data3:()
+[06-02-2016 :: 14:54:09] [ContentPacket] CHAT_PROBATION_EXPIRE - case:(198) packet_size:(4) socket:(412) position:(2)
+[06-02-2016 :: 14:54:10] [ContentPacket] SEND: packet_type:(4) size:(8) s_op_value:(183!) data_pos1:() data_pos2:()
+[06-02-2016 :: 14:54:11] [ContentPacket] 
+	 Begin Packet Process: size:(4) op_value:(22) data3:()
+[06-02-2016 :: 14:54:11] [ContentPacket] BAD_LOG - case:(22) data_size:(4) socket:(396) position:(1)
+[06-02-2016 :: 14:54:11] [ContentPacket] SPC_CONTENT_NUMBER - case:(22) input1:(4!!!3!!!) socket:(396) position:(1)
+[06-02-2016 :: 14:54:11] [ContentPacket] SEND: packet_type:(5) size:(16) s_op_value:(22!!) data_pos1:(4!!!3!!!) data_pos2:()
+[06-02-2016 :: 14:54:13] [ContentPacket] 
+	 Begin Packet Process: size:(4) op_value:(183) data3:()
+[06-02-2016 :: 14:54:21] [ContentPacket] 
+	 Begin Packet Process: size:(4) op_value:(198) data3:()
+[06-02-2016 :: 14:54:21] [ContentPacket] CHAT_PROBATION_EXPIRE - case:(198) packet_size:(4) socket:(408) position:(3)
+[06-02-2016 :: 14:54:23] [ContentPacket] 
+	 Begin Packet Process: size:(4) op_value:(22) data3:()
+[06-02-2016 :: 14:54:23] [ContentPacket] BAD_LOG - case:(22) data_size:(4) socket:(396) position:(1)
+[06-02-2016 :: 14:54:23] [ContentPacket] SPC_CONTENT_NUMBER - case:(22) input1:(4!!!3!!!) socket:(396) position:(1)
+[06-02-2016 :: 14:54:23] [ContentPacket] SEND: packet_type:(5) size:(16) s_op_value:(22!!) data_pos1:(4!!!3!!!) data_pos2:()
+[06-02-2016 :: 14:54:28] [ContentPacket] 
+	 Begin Packet Process: size:(4) op_value:(183) data3:()
+[06-02-2016 :: 14:54:34] [ContentPacket] SEND: packet_type:(4) size:(8) s_op_value:(183!) data_pos1:() data_pos2:()
+[06-02-2016 :: 14:54:35] [ContentPacket] 
+	 Begin Packet Process: size:(4) op_value:(22) data3:()
+[06-02-2016 :: 14:54:35] [ContentPacket] BAD_LOG - case:(22) data_size:(4) socket:(396) position:(1)
+[06-02-2016 :: 14:54:35] [ContentPacket] SPC_CONTENT_NUMBER - case:(22) input1:(4!!!3!!!) socket:(396) position:(1)
+[06-02-2016 :: 14:54:35] [ContentPacket] SEND: packet_type:(5) size:(16) s_op_value:(22!!) data_pos1:(4!!!3!!!) data_pos2:()
+[06-02-2016 :: 14:54:36] [ContentPacket] 
+	 Begin Packet Process: size:(9) op_value:(28) data3:(bark3)
+[06-02-2016 :: 14:54:36] [ContentPacket] CHAT_OUT_SAY - case:(28) input(bark!) data_size:(9) socket:(412) position:(2)
+[06-02-2016 :: 14:54:36] [ContentPacket] SEND: packet_type:(8) size:(25) s_op_value:(26!!) data_pos1:(adrian!!!!!!) data_pos2:(bark!)
+[06-02-2016 :: 14:54:36] [ContentPacket] SEND: packet_type:(4) size:(8) s_op_value:(195!) data_pos1:() data_pos2:()
+[06-02-2016 :: 14:54:43] [ContentPacket] 
+	 Begin Packet Process: size:(4) op_value:(183) data3:()
+[06-02-2016 :: 14:54:47] [ContentPacket] 
+	 Begin Packet Process: size:(4) op_value:(22) data3:()
+[06-02-2016 :: 14:54:47] [ContentPacket] BAD_LOG - case:(22) data_size:(4) socket:(396) position:(1)
+[06-02-2016 :: 14:54:47] [ContentPacket] SPC_CONTENT_NUMBER - case:(22) input1:(4!!!3!!!) socket:(396) position:(1)
+[06-02-2016 :: 14:54:47] [ContentPacket] SEND: packet_type:(5) size:(16) s_op_value:(22!!) data_pos1:(4!!!3!!!) data_pos2:()
+[06-02-2016 :: 14:54:54] [ContentPacket] 
+	 Begin Packet Process: size:(10) op_value:(28) data3:(hello3)
+[06-02-2016 :: 14:54:54] [ContentPacket] CHAT_OUT_SAY - case:(28) input(hello!) data_size:(10) socket:(412) position:(2)
+[06-02-2016 :: 14:54:54] [ContentPacket] SEND: packet_type:(8) size:(26) s_op_value:(26!!) data_pos1:(adrian!!!!!!) data_pos2:(hello!)
+[06-02-2016 :: 14:54:54] [ContentPacket] SEND: packet_type:(4) size:(8) s_op_value:(195!) data_pos1:() data_pos2:()
+[06-02-2016 :: 14:54:58] [ContentPacket] SEND: packet_type:(4) size:(8) s_op_value:(183!) data_pos1:() data_pos2:()
+[06-02-2016 :: 14:54:58] [ContentPacket] 
+	 Begin Packet Process: size:(4) op_value:(183) data3:()
+[06-02-2016 :: 14:54:59] [ContentPacket] 
+	 Begin Packet Process: size:(4) op_value:(22) data3:()
+[06-02-2016 :: 14:54:59] [ContentPacket] BAD_LOG - case:(22) data_size:(4) socket:(396) position:(1)
+[06-02-2016 :: 14:54:59] [ContentPacket] SPC_CONTENT_NUMBER - case:(22) input1:(4!!!3!!!) socket:(396) position:(1)
+[06-02-2016 :: 14:54:59] [ContentPacket] SEND: packet_type:(5) size:(16) s_op_value:(22!!) data_pos1:(4!!!3!!!) data_pos2:()
+[06-02-2016 :: 14:55:11] [ContentPacket] 
+	 Begin Packet Process: size:(4) op_value:(22) data3:()
+[06-02-2016 :: 14:55:11] [ContentPacket] BAD_LOG - case:(22) data_size:(4) socket:(396) position:(1)
+[06-02-2016 :: 14:55:11] [ContentPacket] SPC_CONTENT_NUMBER - case:(22) input1:(4!!!3!!!) socket:(396) position:(1)
+[06-02-2016 :: 14:55:11] [ContentPacket] SEND: packet_type:(5) size:(16) s_op_value:(22!!) data_pos1:(4!!!3!!!) data_pos2:()
+[06-02-2016 :: 14:55:13] [ContentPacket] 
+	 Begin Packet Process: size:(8) op_value:(28) data3:(menu43)
+[06-02-2016 :: 14:55:13] [ContentPacket] CHAT_OUT_SAY - case:(28) input(menu) data_size:(8) socket:(408) position:(3)
+[06-02-2016 :: 14:55:13] [ContentPacket] SEND: packet_type:(8) size:(24) s_op_value:(26!!) data_pos1:(greg!!!!!!!!) data_pos2:(menu)
+[06-02-2016 :: 14:55:13] [ContentPacket] SEND: packet_type:(4) size:(8) s_op_value:(195!) data_pos1:() data_pos2:()
+[06-02-2016 :: 14:55:13] [ContentPacket] 
+	 Begin Packet Process: size:(4) op_value:(183) data3:()
+[06-02-2016 :: 14:55:22] [ContentPacket] SEND: packet_type:(4) size:(8) s_op_value:(183!) data_pos1:() data_pos2:()
+[06-02-2016 :: 14:55:23] [ContentPacket] 
+	 Begin Packet Process: size:(4) op_value:(22) data3:()
+[06-02-2016 :: 14:55:23] [ContentPacket] BAD_LOG - case:(22) data_size:(4) socket:(396) position:(1)
+[06-02-2016 :: 14:55:23] [ContentPacket] SPC_CONTENT_NUMBER - case:(22) input1:(4!!!3!!!) socket:(396) position:(1)
+[06-02-2016 :: 14:55:23] [ContentPacket] SEND: packet_type:(5) size:(16) s_op_value:(22!!) data_pos1:(4!!!3!!!) data_pos2:()
+[06-02-2016 :: 14:55:28] [ContentPacket] 
+	 Begin Packet Process: size:(4) op_value:(183) data3:()
+[06-02-2016 :: 14:55:35] [ContentPacket] 
+	 Begin Packet Process: size:(4) op_value:(22) data3:()
+[06-02-2016 :: 14:55:35] [ContentPacket] BAD_LOG - case:(22) data_size:(4) socket:(396) position:(1)
+[06-02-2016 :: 14:55:35] [ContentPacket] SPC_CONTENT_NUMBER - case:(22) input1:(4!!!3!!!) socket:(396) position:(1)
+[06-02-2016 :: 14:55:35] [ContentPacket] SEND: packet_type:(5) size:(16) s_op_value:(22!!) data_pos1:(4!!!3!!!) data_pos2:()
+[06-02-2016 :: 14:55:43] [ContentPacket] 
+	 Begin Packet Process: size:(4) op_value:(183) data3:()
+[06-02-2016 :: 14:55:46] [ContentPacket] SEND: packet_type:(4) size:(8) s_op_value:(183!) data_pos1:() data_pos2:()
+[06-02-2016 :: 14:55:47] [ContentPacket] 
+	 Begin Packet Process: size:(4) op_value:(22) data3:()
+[06-02-2016 :: 14:55:47] [ContentPacket] BAD_LOG - case:(22) data_size:(4) socket:(396) position:(1)
+[06-02-2016 :: 14:55:47] [ContentPacket] SPC_CONTENT_NUMBER - case:(22) input1:(4!!!3!!!) socket:(396) position:(1)
+[06-02-2016 :: 14:55:47] [ContentPacket] SEND: packet_type:(5) size:(16) s_op_value:(22!!) data_pos1:(4!!!3!!!) data_pos2:()
+[06-02-2016 :: 14:55:51] [ContentPacket] 
+	 Begin Packet Process: size:(7) op_value:(28) data3:(\\143)
+[06-02-2016 :: 14:55:51] [ContentPacket] CHAT_OUT_SAY - case:(28) input(\\1) data_size:(7) socket:(412) position:(2)
+[06-02-2016 :: 14:55:51] [ContentPacket] SEND: packet_type:(8) size:(23) s_op_value:(26!!) data_pos1:(adrian!!!!!!) data_pos2:(\\1)
+[06-02-2016 :: 14:55:51] [ContentPacket] SEND: packet_type:(4) size:(8) s_op_value:(195!) data_pos1:() data_pos2:()
+[06-02-2016 :: 14:55:56] [ContentPacket] 
+	 Begin Packet Process: size:(6) op_value:(28) data3:(\15adrian)
+[06-02-2016 :: 14:55:56] [ContentPacket] CHAT_OUT_SAY - case:(28) input(\1) data_size:(6) socket:(412) position:(2)
+[06-02-2016 :: 14:55:56] [ContentPacket] SEND: packet_type:(8) size:(22) s_op_value:(26!!) data_pos1:(adrian!!!!!!) data_pos2:(\1)
+[06-02-2016 :: 14:55:56] [ContentPacket] SEND: packet_type:(4) size:(8) s_op_value:(195!) data_pos1:() data_pos2:()
+[06-02-2016 :: 14:55:58] [ContentPacket] 
+	 Begin Packet Process: size:(4) op_value:(183) data3:()
+[06-02-2016 :: 14:55:59] [ContentPacket] 
+	 Begin Packet Process: size:(4) op_value:(22) data3:()
+[06-02-2016 :: 14:55:59] [ContentPacket] BAD_LOG - case:(22) data_size:(4) socket:(396) position:(1)
+[06-02-2016 :: 14:55:59] [ContentPacket] SPC_CONTENT_NUMBER - case:(22) input1:(4!!!3!!!) socket:(396) position:(1)
+[06-02-2016 :: 14:55:59] [ContentPacket] SEND: packet_type:(5) size:(16) s_op_value:(22!!) data_pos1:(4!!!3!!!) data_pos2:()
+[06-02-2016 :: 14:56:00] [ContentPacket] 
+	 Begin Packet Process: size:(9) op_value:(28) data3:(\\\\13)
+[06-02-2016 :: 14:56:00] [ContentPacket] CHAT_OUT_SAY - case:(28) input(\\\\1) data_size:(9) socket:(412) position:(2)
+[06-02-2016 :: 14:56:00] [ContentPacket] SEND: packet_type:(8) size:(25) s_op_value:(26!!) data_pos1:(adrian!!!!!!) data_pos2:(\\\\1)
+[06-02-2016 :: 14:56:00] [ContentPacket] SEND: packet_type:(4) size:(8) s_op_value:(195!) data_pos1:() data_pos2:()
+[06-02-2016 :: 14:56:04] [ContentPacket] 
+	 Begin Packet Process: size:(6) op_value:(28) data3:(\5adrian)
+[06-02-2016 :: 14:56:04] [ContentPacket] CHAT_OUT_SAY - case:(28) input(\!) data_size:(6) socket:(412) position:(2)
+[06-02-2016 :: 14:56:04] [ContentPacket] SEND: packet_type:(8) size:(22) s_op_value:(26!!) data_pos1:(adrian!!!!!!) data_pos2:(\!)
+[06-02-2016 :: 14:56:04] [ContentPacket] SEND: packet_type:(4) size:(8) s_op_value:(195!) data_pos1:() data_pos2:()
+[06-02-2016 :: 14:56:10] [ContentPacket] SEND: packet_type:(4) size:(8) s_op_value:(183!) data_pos1:() data_pos2:()
+[06-02-2016 :: 14:56:11] [ContentPacket] 
+	 Begin Packet Process: size:(4) op_value:(22) data3:()
+[06-02-2016 :: 14:56:11] [ContentPacket] BAD_LOG - case:(22) data_size:(4) socket:(396) position:(1)
+[06-02-2016 :: 14:56:11] [ContentPacket] SPC_CONTENT_NUMBER - case:(22) input1:(4!!!3!!!) socket:(396) position:(1)
+[06-02-2016 :: 14:56:11] [ContentPacket] SEND: packet_type:(5) size:(16) s_op_value:(22!!) data_pos1:(4!!!3!!!) data_pos2:()
+[06-02-2016 :: 14:56:13] [ContentPacket] 
+	 Begin Packet Process: size:(4) op_value:(183) data3:()
+[06-02-2016 :: 14:56:23] [ContentPacket] 
+	 Begin Packet Process: size:(4) op_value:(22) data3:()
+[06-02-2016 :: 14:56:23] [ContentPacket] BAD_LOG - case:(22) data_size:(4) socket:(396) position:(1)
+[06-02-2016 :: 14:56:23] [ContentPacket] SPC_CONTENT_NUMBER - case:(22) input1:(4!!!3!!!) socket:(396) position:(1)
+[06-02-2016 :: 14:56:23] [ContentPacket] SEND: packet_type:(5) size:(16) s_op_value:(22!!) data_pos1:(4!!!3!!!) data_pos2:()
+[06-02-2016 :: 14:56:28] [ContentPacket] 
+	 Begin Packet Process: size:(4) op_value:(183) data3:()
+[06-02-2016 :: 14:56:34] [ContentPacket] SEND: packet_type:(4) size:(8) s_op_value:(183!) data_pos1:() data_pos2:()
+[06-02-2016 :: 14:56:35] [ContentPacket] 
+	 Begin Packet Process: size:(4) op_value:(22) data3:()
+[06-02-2016 :: 14:56:35] [ContentPacket] BAD_LOG - case:(22) data_size:(4) socket:(396) position:(1)
+[06-02-2016 :: 14:56:35] [ContentPacket] SPC_CONTENT_NUMBER - case:(22) input1:(4!!!3!!!) socket:(396) position:(1)
+[06-02-2016 :: 14:56:35] [ContentPacket] SEND: packet_type:(5) size:(16) s_op_value:(22!!) data_pos1:(4!!!3!!!) data_pos2:()
+[06-02-2016 :: 14:56:43] [ContentPacket] 
+	 Begin Packet Process: size:(4) op_value:(183) data3:()
+[06-02-2016 :: 14:56:47] [ContentPacket] 
+	 Begin Packet Process: size:(4) op_value:(22) data3:()
+[06-02-2016 :: 14:56:47] [ContentPacket] BAD_LOG - case:(22) data_size:(4) socket:(396) position:(1)
+[06-02-2016 :: 14:56:47] [ContentPacket] SPC_CONTENT_NUMBER - case:(22) input1:(4!!!3!!!) socket:(396) position:(1)
+[06-02-2016 :: 14:56:47] [ContentPacket] SEND: packet_type:(5) size:(16) s_op_value:(22!!) data_pos1:(4!!!3!!!) data_pos2:()
+[06-02-2016 :: 14:56:58] [ContentPacket] SEND: packet_type:(4) size:(8) s_op_value:(183!) data_pos1:() data_pos2:()
+[06-02-2016 :: 14:56:58] [ContentPacket] 
+	 Begin Packet Process: size:(4) op_value:(183) data3:()
+[06-02-2016 :: 14:57:00] [ContentPacket] 
+	 Begin Packet Process: size:(4) op_value:(22) data3:()
+[06-02-2016 :: 14:57:00] [ContentPacket] BAD_LOG - case:(22) data_size:(4) socket:(396) position:(1)
+[06-02-2016 :: 14:57:00] [ContentPacket] SPC_CONTENT_NUMBER - case:(22) input1:(4!!!3!!!) socket:(396) position:(1)
+[06-02-2016 :: 14:57:00] [ContentPacket] SEND: packet_type:(5) size:(16) s_op_value:(22!!) data_pos1:(4!!!3!!!) data_pos2:()
+[06-02-2016 :: 14:57:12] [ContentPacket] 
+	 Begin Packet Process: size:(4) op_value:(22) data3:()
+[06-02-2016 :: 14:57:12] [ContentPacket] BAD_LOG - case:(22) data_size:(4) socket:(396) position:(1)
+[06-02-2016 :: 14:57:12] [ContentPacket] SPC_CONTENT_NUMBER - case:(22) input1:(4!!!3!!!) socket:(396) position:(1)
+[06-02-2016 :: 14:57:12] [ContentPacket] SEND: packet_type:(5) size:(16) s_op_value:(22!!) data_pos1:(4!!!3!!!) data_pos2:()
+[06-02-2016 :: 14:57:13] [ContentPacket] 
+	 Begin Packet Process: size:(4) op_value:(183) data3:()
+[06-02-2016 :: 14:57:22] [ContentPacket] SEND: packet_type:(4) size:(8) s_op_value:(183!) data_pos1:() data_pos2:()
+[06-02-2016 :: 14:57:22] [ContentPacket] SEND: packet_type:(4) size:(8) s_op_value:(177!) data_pos1:() data_pos2:()
+[06-02-2016 :: 14:57:24] [ContentPacket] 
+	 Begin Packet Process: size:(4) op_value:(22) data3:()
+[06-02-2016 :: 14:57:24] [ContentPacket] BAD_LOG - case:(22) data_size:(4) socket:(396) position:(1)
+[06-02-2016 :: 14:57:24] [ContentPacket] SPC_CONTENT_NUMBER - case:(22) input1:(4!!!3!!!) socket:(396) position:(1)
+[06-02-2016 :: 14:57:24] [ContentPacket] SEND: packet_type:(5) size:(16) s_op_value:(22!!) data_pos1:(4!!!3!!!) data_pos2:()
+[06-02-2016 :: 14:57:29] [ContentPacket] 
+	 Begin Packet Process: size:(4) op_value:(183) data3:()
+[06-02-2016 :: 14:57:36] [ContentPacket] 
+	 Begin Packet Process: size:(4) op_value:(22) data3:()
+[06-02-2016 :: 14:57:36] [ContentPacket] BAD_LOG - case:(22) data_size:(4) socket:(396) position:(1)
+[06-02-2016 :: 14:57:36] [ContentPacket] SPC_CONTENT_NUMBER - case:(22) input1:(4!!!3!!!) socket:(396) position:(1)
+[06-02-2016 :: 14:57:36] [ContentPacket] SEND: packet_type:(5) size:(16) s_op_value:(22!!) data_pos1:(4!!!3!!!) data_pos2:()
+[06-02-2016 :: 14:57:44] [ContentPacket] 
+	 Begin Packet Process: size:(4) op_value:(183) data3:()
+[06-02-2016 :: 14:57:46] [ContentPacket] SEND: packet_type:(4) size:(8) s_op_value:(183!) data_pos1:() data_pos2:()
+[06-02-2016 :: 14:57:46] [ContentPacket] SEND: packet_type:(4) size:(8) s_op_value:(177!) data_pos1:() data_pos2:()
+[06-02-2016 :: 14:57:48] [ContentPacket] 
+	 Begin Packet Process: size:(4) op_value:(22) data3:()
+[06-02-2016 :: 14:57:48] [ContentPacket] BAD_LOG - case:(22) data_size:(4) socket:(396) position:(1)
+[06-02-2016 :: 14:57:48] [ContentPacket] SPC_CONTENT_NUMBER - case:(22) input1:(4!!!3!!!) socket:(396) position:(1)
+[06-02-2016 :: 14:57:48] [ContentPacket] SEND: packet_type:(5) size:(16) s_op_value:(22!!) data_pos1:(4!!!3!!!) data_pos2:()
+[06-02-2016 :: 14:57:59] [ContentPacket] 
+	 Begin Packet Process: size:(4) op_value:(183) data3:()
+[06-02-2016 :: 14:58:00] [ContentPacket] 
+	 Begin Packet Process: size:(4) op_value:(22) data3:()
+[06-02-2016 :: 14:58:00] [ContentPacket] BAD_LOG - case:(22) data_size:(4) socket:(396) position:(1)
+[06-02-2016 :: 14:58:00] [ContentPacket] SPC_CONTENT_NUMBER - case:(22) input1:(4!!!3!!!) socket:(396) position:(1)
+[06-02-2016 :: 14:58:00] [ContentPacket] SEND: packet_type:(5) size:(16) s_op_value:(22!!) data_pos1:(4!!!3!!!) data_pos2:()
+[06-02-2016 :: 14:58:00] [ContentPacket] 
+	 Begin Packet Process: size:(8) op_value:(28) data3:(dfgs43)
+[06-02-2016 :: 14:58:00] [ContentPacket] CHAT_OUT_SAY - case:(28) input(dfgs) data_size:(8) socket:(412) position:(2)
+[06-02-2016 :: 14:58:00] [ContentPacket] SEND: packet_type:(8) size:(24) s_op_value:(26!!) data_pos1:(adrian!!!!!!) data_pos2:(dfgs)
+[06-02-2016 :: 14:58:00] [ContentPacket] SEND: packet_type:(4) size:(8) s_op_value:(195!) data_pos1:() data_pos2:()
+[06-02-2016 :: 14:58:10] [ContentPacket] SEND: packet_type:(4) size:(8) s_op_value:(183!) data_pos1:() data_pos2:()
+[06-02-2016 :: 14:58:10] [ContentPacket] SEND: packet_type:(4) size:(8) s_op_value:(177!) data_pos1:() data_pos2:()
+[06-02-2016 :: 14:58:12] [ContentPacket] 
+	 Begin Packet Process: size:(4) op_value:(22) data3:()
+[06-02-2016 :: 14:58:12] [ContentPacket] BAD_LOG - case:(22) data_size:(4) socket:(396) position:(1)
+[06-02-2016 :: 14:58:12] [ContentPacket] SPC_CONTENT_NUMBER - case:(22) input1:(4!!!3!!!) socket:(396) position:(1)
+[06-02-2016 :: 14:58:12] [ContentPacket] SEND: packet_type:(5) size:(16) s_op_value:(22!!) data_pos1:(4!!!3!!!) data_pos2:()
+[06-02-2016 :: 14:58:14] [ContentPacket] 
+	 Begin Packet Process: size:(4) op_value:(183) data3:()
+[06-02-2016 :: 14:58:24] [ContentPacket] 
+	 Begin Packet Process: size:(4) op_value:(22) data3:()
+[06-02-2016 :: 14:58:24] [ContentPacket] BAD_LOG - case:(22) data_size:(4) socket:(396) position:(1)
+[06-02-2016 :: 14:58:24] [ContentPacket] SPC_CONTENT_NUMBER - case:(22) input1:(4!!!3!!!) socket:(396) position:(1)
+[06-02-2016 :: 14:58:24] [ContentPacket] SEND: packet_type:(5) size:(16) s_op_value:(22!!) data_pos1:(4!!!3!!!) data_pos2:()
+[06-02-2016 :: 14:58:29] [ContentPacket] 
+	 Begin Packet Process: size:(4) op_value:(183) data3:()
+[06-02-2016 :: 14:58:34] [ContentPacket] SEND: packet_type:(4) size:(8) s_op_value:(183!) data_pos1:() data_pos2:()
+[06-02-2016 :: 14:58:34] [ContentPacket] SEND: packet_type:(4) size:(8) s_op_value:(177!) data_pos1:() data_pos2:()
+[06-02-2016 :: 14:58:36] [ContentPacket] 
+	 Begin Packet Process: size:(4) op_value:(22) data3:()
+[06-02-2016 :: 14:58:36] [ContentPacket] BAD_LOG - case:(22) data_size:(4) socket:(396) position:(1)
+[06-02-2016 :: 14:58:36] [ContentPacket] SPC_CONTENT_NUMBER - case:(22) input1:(4!!!3!!!) socket:(396) position:(1)
+[06-02-2016 :: 14:58:36] [ContentPacket] SEND: packet_type:(5) size:(16) s_op_value:(22!!) data_pos1:(4!!!3!!!) data_pos2:()
+[06-02-2016 :: 14:58:44] [ContentPacket] 
+	 Begin Packet Process: size:(4) op_value:(183) data3:()
+[06-02-2016 :: 14:58:48] [ContentPacket] 
+	 Begin Packet Process: size:(4) op_value:(22) data3:()
+[06-02-2016 :: 14:58:48] [ContentPacket] BAD_LOG - case:(22) data_size:(4) socket:(396) position:(1)
+[06-02-2016 :: 14:58:48] [ContentPacket] SPC_CONTENT_NUMBER - case:(22) input1:(4!!!3!!!) socket:(396) position:(1)
+[06-02-2016 :: 14:58:48] [ContentPacket] SEND: packet_type:(5) size:(16) s_op_value:(22!!) data_pos1:(4!!!3!!!) data_pos2:()
+[06-02-2016 :: 14:58:58] [ContentPacket] SEND: packet_type:(4) size:(8) s_op_value:(183!) data_pos1:() data_pos2:()
+[06-02-2016 :: 14:58:58] [ContentPacket] SEND: packet_type:(4) size:(8) s_op_value:(177!) data_pos1:() data_pos2:()
+[06-02-2016 :: 14:58:59] [ContentPacket] 
+	 Begin Packet Process: size:(4) op_value:(183) data3:()
+[06-02-2016 :: 14:59:00] [ContentPacket] 
+	 Begin Packet Process: size:(4) op_value:(22) data3:()
+[06-02-2016 :: 14:59:00] [ContentPacket] BAD_LOG - case:(22) data_size:(4) socket:(396) position:(1)
+[06-02-2016 :: 14:59:00] [ContentPacket] SPC_CONTENT_NUMBER - case:(22) input1:(4!!!3!!!) socket:(396) position:(1)
+[06-02-2016 :: 14:59:00] [ContentPacket] SEND: packet_type:(5) size:(16) s_op_value:(22!!) data_pos1:(4!!!3!!!) data_pos2:()
+[06-02-2016 :: 14:59:12] [ContentPacket] 
+	 Begin Packet Process: size:(4) op_value:(22) data3:()
+[06-02-2016 :: 14:59:12] [ContentPacket] BAD_LOG - case:(22) data_size:(4) socket:(396) position:(1)
+[06-02-2016 :: 14:59:12] [ContentPacket] SPC_CONTENT_NUMBER - case:(22) input1:(4!!!3!!!) socket:(396) position:(1)
+[06-02-2016 :: 14:59:12] [ContentPacket] SEND: packet_type:(5) size:(16) s_op_value:(22!!) data_pos1:(4!!!3!!!) data_pos2:()
+[06-02-2016 :: 14:59:14] [ContentPacket] 
+	 Begin Packet Process: size:(4) op_value:(183) data3:()
+[06-02-2016 :: 14:59:22] [ContentPacket] SEND: packet_type:(4) size:(8) s_op_value:(183!) data_pos1:() data_pos2:()
+[06-02-2016 :: 14:59:22] [ContentPacket] SEND: packet_type:(4) size:(8) s_op_value:(178!) data_pos1:() data_pos2:()
+[06-02-2016 :: 14:59:23] [General] User logout(greg)
+[06-02-2016 :: 14:59:23] [ContentPacket] SEND: packet_type:(6) size:(20) s_op_value:(31!!) data_pos1:(greg) data_pos2:()
+[06-02-2016 :: 14:59:23] [ContentPacket] Removed client connection on socket-position:(408:3)
+[06-02-2016 :: 14:59:24] [ContentPacket] 
+	 Begin Packet Process: size:(4) op_value:(22) data3:()
+[06-02-2016 :: 14:59:24] [ContentPacket] BAD_LOG - case:(22) data_size:(4) socket:(396) position:(1)
+[06-02-2016 :: 14:59:24] [ContentPacket] SPC_CONTENT_NUMBER - case:(22) input1:(3!!!) socket:(396) position:(1)
+[06-02-2016 :: 14:59:24] [ContentPacket] SEND: packet_type:(5) size:(12) s_op_value:(22!!) data_pos1:(3!!!) data_pos2:()
+[06-02-2016 :: 14:59:29] [ContentPacket] 
+	 Begin Packet Process: size:(4) op_value:(183) data3:()
+[06-02-2016 :: 14:59:36] [ContentPacket] 
+	 Begin Packet Process: size:(4) op_value:(22) data3:()
+[06-02-2016 :: 14:59:36] [ContentPacket] BAD_LOG - case:(22) data_size:(4) socket:(396) position:(1)
+[06-02-2016 :: 14:59:36] [ContentPacket] SPC_CONTENT_NUMBER - case:(22) input1:(3!!!) socket:(396) position:(1)
+[06-02-2016 :: 14:59:36] [ContentPacket] SEND: packet_type:(5) size:(12) s_op_value:(22!!) data_pos1:(3!!!) data_pos2:()
+[06-02-2016 :: 14:59:44] [ContentPacket] 
+	 Begin Packet Process: size:(4) op_value:(183) data3:()
+[06-02-2016 :: 14:59:47] [ContentPacket] SEND: packet_type:(4) size:(8) s_op_value:(183!) data_pos1:() data_pos2:()
+[06-02-2016 :: 14:59:48] [ContentPacket] 
+	 Begin Packet Process: size:(4) op_value:(22) data3:()
+[06-02-2016 :: 14:59:48] [ContentPacket] BAD_LOG - case:(22) data_size:(4) socket:(396) position:(1)
+[06-02-2016 :: 14:59:48] [ContentPacket] SPC_CONTENT_NUMBER - case:(22) input1:(3!!!) socket:(396) position:(1)
+[06-02-2016 :: 14:59:48] [ContentPacket] SEND: packet_type:(5) size:(12) s_op_value:(22!!) data_pos1:(3!!!) data_pos2:()
+[06-02-2016 :: 14:59:59] [ContentPacket] 
+	 Begin Packet Process: size:(4) op_value:(183) data3:()
+[06-02-2016 :: 15:00:00] [ContentPacket] 
+	 Begin Packet Process: size:(4) op_value:(22) data3:()
+[06-02-2016 :: 15:00:00] [ContentPacket] BAD_LOG - case:(22) data_size:(4) socket:(396) position:(1)
+[06-02-2016 :: 15:00:00] [ContentPacket] SPC_CONTENT_NUMBER - case:(22) input1:(3!!!) socket:(396) position:(1)
+[06-02-2016 :: 15:00:00] [ContentPacket] SEND: packet_type:(5) size:(12) s_op_value:(22!!) data_pos1:(3!!!) data_pos2:()
+[06-02-2016 :: 15:00:11] [ContentPacket] SEND: packet_type:(4) size:(8) s_op_value:(183!) data_pos1:() data_pos2:()
+[06-02-2016 :: 15:00:11] [ContentPacket] SEND: packet_type:(4) size:(8) s_op_value:(177!) data_pos1:() data_pos2:()
+[06-02-2016 :: 15:00:12] [ContentPacket] 
+	 Begin Packet Process: size:(4) op_value:(22) data3:()
+[06-02-2016 :: 15:00:12] [ContentPacket] BAD_LOG - case:(22) data_size:(4) socket:(396) position:(1)
+[06-02-2016 :: 15:00:12] [ContentPacket] SPC_CONTENT_NUMBER - case:(22) input1:(3!!!) socket:(396) position:(1)
+[06-02-2016 :: 15:00:12] [ContentPacket] SEND: packet_type:(5) size:(12) s_op_value:(22!!) data_pos1:(3!!!) data_pos2:()
+[06-02-2016 :: 15:00:14] [ContentPacket] 
+	 Begin Packet Process: size:(4) op_value:(183) data3:()
+[06-02-2016 :: 15:00:24] [ContentPacket] 
+	 Begin Packet Process: size:(4) op_value:(22) data3:()
+[06-02-2016 :: 15:00:24] [ContentPacket] BAD_LOG - case:(22) data_size:(4) socket:(396) position:(1)
+[06-02-2016 :: 15:00:24] [ContentPacket] SPC_CONTENT_NUMBER - case:(22) input1:(3!!!) socket:(396) position:(1)
+[06-02-2016 :: 15:00:24] [ContentPacket] SEND: packet_type:(5) size:(12) s_op_value:(22!!) data_pos1:(3!!!) data_pos2:()
+[06-02-2016 :: 15:00:29] [ContentPacket] 
+	 Begin Packet Process: size:(4) op_value:(183) data3:()
+[06-02-2016 :: 15:00:35] [ContentPacket] SEND: packet_type:(4) size:(8) s_op_value:(183!) data_pos1:() data_pos2:()
+[06-02-2016 :: 15:00:35] [ContentPacket] SEND: packet_type:(4) size:(8) s_op_value:(177!) data_pos1:() data_pos2:()
+[06-02-2016 :: 15:00:36] [ContentPacket] 
+	 Begin Packet Process: size:(4) op_value:(22) data3:()
+[06-02-2016 :: 15:00:36] [ContentPacket] BAD_LOG - case:(22) data_size:(4) socket:(396) position:(1)
+[06-02-2016 :: 15:00:36] [ContentPacket] SPC_CONTENT_NUMBER - case:(22) input1:(3!!!) socket:(396) position:(1)
+[06-02-2016 :: 15:00:36] [ContentPacket] SEND: packet_type:(5) size:(12) s_op_value:(22!!) data_pos1:(3!!!) data_pos2:()
+[06-02-2016 :: 15:00:44] [ContentPacket] 
+	 Begin Packet Process: size:(4) op_value:(183) data3:()
+[06-02-2016 :: 15:00:48] [ContentPacket] 
+	 Begin Packet Process: size:(4) op_value:(22) data3:()
+[06-02-2016 :: 15:00:48] [ContentPacket] BAD_LOG - case:(22) data_size:(4) socket:(396) position:(1)
+[06-02-2016 :: 15:00:48] [ContentPacket] SPC_CONTENT_NUMBER - case:(22) input1:(3!!!) socket:(396) position:(1)
+[06-02-2016 :: 15:00:48] [ContentPacket] SEND: packet_type:(5) size:(12) s_op_value:(22!!) data_pos1:(3!!!) data_pos2:()
+[06-02-2016 :: 15:00:59] [ContentPacket] SEND: packet_type:(4) size:(8) s_op_value:(183!) data_pos1:() data_pos2:()
+[06-02-2016 :: 15:00:59] [ContentPacket] SEND: packet_type:(4) size:(8) s_op_value:(177!) data_pos1:() data_pos2:()
+[06-02-2016 :: 15:00:59] [ContentPacket] 
+	 Begin Packet Process: size:(4) op_value:(183) data3:()
+[06-02-2016 :: 15:01:00] [ContentPacket] 
+	 Begin Packet Process: size:(4) op_value:(22) data3:()
+[06-02-2016 :: 15:01:00] [ContentPacket] BAD_LOG - case:(22) data_size:(4) socket:(396) position:(1)
+[06-02-2016 :: 15:01:00] [ContentPacket] SPC_CONTENT_NUMBER - case:(22) input1:(3!!!) socket:(396) position:(1)
+[06-02-2016 :: 15:01:00] [ContentPacket] SEND: packet_type:(5) size:(12) s_op_value:(22!!) data_pos1:(3!!!) data_pos2:()
+[06-02-2016 :: 15:01:12] [ContentPacket] 
+	 Begin Packet Process: size:(4) op_value:(22) data3:()
+[06-02-2016 :: 15:01:12] [ContentPacket] BAD_LOG - case:(22) data_size:(4) socket:(396) position:(1)
+[06-02-2016 :: 15:01:12] [ContentPacket] SPC_CONTENT_NUMBER - case:(22) input1:(3!!!) socket:(396) position:(1)
+[06-02-2016 :: 15:01:12] [ContentPacket] SEND: packet_type:(5) size:(12) s_op_value:(22!!) data_pos1:(3!!!) data_pos2:()
+[06-02-2016 :: 15:01:14] [ContentPacket] 
+	 Begin Packet Process: size:(4) op_value:(183) data3:()
+[06-02-2016 :: 15:01:23] [ContentPacket] SEND: packet_type:(4) size:(8) s_op_value:(183!) data_pos1:() data_pos2:()
+[06-02-2016 :: 15:01:23] [ContentPacket] SEND: packet_type:(4) size:(8) s_op_value:(177!) data_pos1:() data_pos2:()
+[06-02-2016 :: 15:01:25] [ContentPacket] 
+	 Begin Packet Process: size:(4) op_value:(22) data3:()
+[06-02-2016 :: 15:01:25] [ContentPacket] BAD_LOG - case:(22) data_size:(4) socket:(396) position:(1)
+[06-02-2016 :: 15:01:25] [ContentPacket] SPC_CONTENT_NUMBER - case:(22) input1:(3!!!) socket:(396) position:(1)
+[06-02-2016 :: 15:01:25] [ContentPacket] SEND: packet_type:(5) size:(12) s_op_value:(22!!) data_pos1:(3!!!) data_pos2:()
+[06-02-2016 :: 15:01:25] [ContentPacket] 
+	 Begin Packet Process: size:(10) op_value:(28) data3:(logout)
+[06-02-2016 :: 15:01:25] [ContentPacket] CHAT_OUT_SAY - case:(28) input(logout) data_size:(10) socket:(412) position:(2)
+[06-02-2016 :: 15:01:25] [General] New chat file started.
+[06-02-2016 :: 15:01:25] [ContentPacket] SEND: packet_type:(4) size:(8) s_op_value:(196!) data_pos1:() data_pos2:()
+[06-02-2016 :: 15:01:29] [ContentPacket] 
+	 Begin Packet Process: size:(4) op_value:(183) data3:()
+[06-02-2016 :: 15:01:30] [ContentPacket] 
+	 Begin Packet Process: size:(4) op_value:(164) data3:()
+[06-02-2016 :: 15:01:30] [ContentPacket] LOGOUT - case:(164) packet_size:(4) socket:(412) position:(2)
+[06-02-2016 :: 15:01:30] [ContentPacket] SEND: packet_type:(4) size:(8) s_op_value:(164!) data_pos1:() data_pos2:()
+[06-02-2016 :: 15:01:30] [General] User logout(adrian)
+[06-02-2016 :: 15:01:30] [ContentPacket] Removed client connection on socket-position:(412:2)

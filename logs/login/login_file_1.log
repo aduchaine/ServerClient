@@ -1,0 +1,34 @@
+[06-02-2016 :: 14:46:52] [General] Login server started
+[06-02-2016 :: 14:47:07] [LoginPacket] New connection from 192.168.0.3:56768 on socket-position:(328:1)
+[06-02-2016 :: 14:47:11] [Account] Existing user login attempted on account: (adrian)
+[06-02-2016 :: 14:47:13] [General] User login(adrian)
+[06-02-2016 :: 14:47:18] [General] User logout(adrian)
+[06-02-2016 :: 14:52:55] [LoginPacket] New connection from 192.168.0.3:56885 on socket-position:(412:1)
+[06-02-2016 :: 14:52:58] [Account] Existing user login attempted on account: (adrian)
+[06-02-2016 :: 14:52:59] [General] User login(adrian)
+[06-02-2016 :: 14:53:03] [LoginPacket] New connection from 192.168.0.3:56898 on socket-position:(332:2)
+[06-02-2016 :: 14:53:04] [General] User logout(adrian)
+[06-02-2016 :: 14:53:06] [Account] Existing user login attempted on account: (greg)
+[06-02-2016 :: 14:53:11] [General] User login(greg)
+[06-02-2016 :: 14:53:16] [General] User logout(greg)
+[06-26-2016 :: 03:13:36] [General] Login server started
+[06-26-2016 :: 03:13:45] [LoginPacket] New connection from 192.168.0.3:51362 on socket-position:(324:1)
+[06-26-2016 :: 03:14:37] [Admin] Admin login attempted on account: (adrian)
+[06-26-2016 :: 03:14:39] [Admin] Admin login(adrian)
+[06-26-2016 :: 03:14:50] [General] Server shutdown called by Admin:(adrian)
+[06-26-2016 :: 03:14:50] [Admin] Admin logout(adrian)
+[06-26-2016 :: 03:14:50] [General] Login server shutdown
+[08-30-2016 :: 13:38:30] [General] Login server started
+[08-30-2016 :: 13:38:32] [NETERROR] bind FAILED with error :: Can't assign requested address (10049)
+[08-30-2016 :: 13:38:34] [NETERROR] bind FAILED with error :: Can't assign requested address (10049)
+[08-30-2016 :: 13:38:36] [NETERROR] bind FAILED with error :: Can't assign requested address (10049)
+[08-30-2016 :: 13:38:38] [NETERROR] bind FAILED with error :: Can't assign requested address (10049)
+[08-30-2016 :: 13:38:40] [NETERROR] bind FAILED with error :: Can't assign requested address (10049)
+[08-30-2016 :: 13:38:40] [General] Login server shutdown
+[08-30-2016 :: 13:40:13] [General] Login server started
+[08-30-2016 :: 13:40:15] [NETERROR] bind FAILED with error :: Can't assign requested address (10049)
+[08-30-2016 :: 13:40:17] [NETERROR] bind FAILED with error :: Can't assign requested address (10049)
+[08-30-2016 :: 13:40:19] [NETERROR] bind FAILED with error :: Can't assign requested address (10049)
+[08-30-2016 :: 13:40:21] [NETERROR] bind FAILED with error :: Can't assign requested address (10049)
+[08-30-2016 :: 13:40:23] [NETERROR] bind FAILED with error :: Can't assign requested address (10049)
+[08-30-2016 :: 13:40:23] [General] Login server shutdown

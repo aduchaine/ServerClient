@@ -1,0 +1,9 @@
+[08-30-2016 :: 13:40:10] [General] Content server started
+[08-30-2016 :: 13:40:10] [General] Resuming chat file.
+[08-30-2016 :: 13:40:12] [NETERROR] bind FAILED with error :: Can't assign requested address (10049)
+[08-30-2016 :: 13:40:14] [NETERROR] bind FAILED with error :: Can't assign requested address (10049)
+[08-30-2016 :: 13:40:16] [NETERROR] bind FAILED with error :: Can't assign requested address (10049)
+[08-30-2016 :: 13:40:18] [NETERROR] bind FAILED with error :: Can't assign requested address (10049)
+[08-30-2016 :: 13:40:20] [NETERROR] bind FAILED with error :: Can't assign requested address (10049)
+[08-30-2016 :: 13:40:20] [General] End chat log.
+[08-30-2016 :: 13:40:20] [General] Content server shutdown

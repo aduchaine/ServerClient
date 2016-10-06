@@ -1,0 +1,55 @@
+[06-26-2016 :: 03:13:33] [General] Content server started
+[06-26-2016 :: 03:13:33] [General] New chat file started.
+[06-26-2016 :: 03:13:41] [LoginPacket] New connection from 192.168.0.3:51361 on socket-position:(36:1)
+[06-26-2016 :: 03:13:41] [ContentPacket] 
+	 Begin Packet Process: size:(4) op_value:(165) data3:()
+[06-26-2016 :: 03:13:41] [ContentPacket] SERVERTALK1 - case:(165) packet_size:(4) socket:(36) position:(1)
+[06-26-2016 :: 03:13:41] [General] Login server connected on socket-position:(36:1)
+[06-26-2016 :: 03:13:41] [ContentPacket] SEND: packet_type:(4) size:(8) s_op_value:(165!) data_pos1:() data_pos2:()
+[06-26-2016 :: 03:13:54] [ContentPacket] 
+	 Begin Packet Process: size:(4) op_value:(22) data3:()
+[06-26-2016 :: 03:13:54] [ContentPacket] BAD_LOG - case:(22) data_size:(4) socket:(36) position:(1)
+[06-26-2016 :: 03:13:54] [ContentPacket] SPC_CONTENT_EMPTY - case:(22) socket:(36) position:(1)
+[06-26-2016 :: 03:13:54] [ContentPacket] SEND: packet_type:(4) size:(8) s_op_value:(22!!) data_pos1:() data_pos2:()
+[06-26-2016 :: 03:13:57] [ContentPacket] 
+	 Begin Packet Process: size:(4) op_value:(183) data3:()
+[06-26-2016 :: 03:14:05] [ContentPacket] SEND: packet_type:(4) size:(8) s_op_value:(183!) data_pos1:() data_pos2:()
+[06-26-2016 :: 03:14:06] [ContentPacket] 
+	 Begin Packet Process: size:(4) op_value:(22) data3:()
+[06-26-2016 :: 03:14:06] [ContentPacket] BAD_LOG - case:(22) data_size:(4) socket:(36) position:(1)
+[06-26-2016 :: 03:14:06] [ContentPacket] SPC_CONTENT_EMPTY - case:(22) socket:(36) position:(1)
+[06-26-2016 :: 03:14:06] [ContentPacket] SEND: packet_type:(4) size:(8) s_op_value:(22!!) data_pos1:() data_pos2:()
+[06-26-2016 :: 03:14:12] [ContentPacket] 
+	 Begin Packet Process: size:(4) op_value:(183) data3:()
+[06-26-2016 :: 03:14:18] [ContentPacket] 
+	 Begin Packet Process: size:(4) op_value:(22) data3:()
+[06-26-2016 :: 03:14:18] [ContentPacket] BAD_LOG - case:(22) data_size:(4) socket:(36) position:(1)
+[06-26-2016 :: 03:14:18] [ContentPacket] SPC_CONTENT_EMPTY - case:(22) socket:(36) position:(1)
+[06-26-2016 :: 03:14:18] [ContentPacket] SEND: packet_type:(4) size:(8) s_op_value:(22!!) data_pos1:() data_pos2:()
+[06-26-2016 :: 03:14:27] [ContentPacket] 
+	 Begin Packet Process: size:(4) op_value:(183) data3:()
+[06-26-2016 :: 03:14:30] [ContentPacket] SEND: packet_type:(4) size:(8) s_op_value:(183!) data_pos1:() data_pos2:()
+[06-26-2016 :: 03:14:30] [ContentPacket] 
+	 Begin Packet Process: size:(4) op_value:(22) data3:()
+[06-26-2016 :: 03:14:30] [ContentPacket] BAD_LOG - case:(22) data_size:(4) socket:(36) position:(1)
+[06-26-2016 :: 03:14:30] [ContentPacket] SPC_CONTENT_EMPTY - case:(22) socket:(36) position:(1)
+[06-26-2016 :: 03:14:30] [ContentPacket] SEND: packet_type:(4) size:(8) s_op_value:(22!!) data_pos1:() data_pos2:()
+[06-26-2016 :: 03:14:42] [ContentPacket] 
+	 Begin Packet Process: size:(4) op_value:(183) data3:()
+[06-26-2016 :: 03:14:42] [ContentPacket] 
+	 Begin Packet Process: size:(4) op_value:(22) data3:()
+[06-26-2016 :: 03:14:42] [ContentPacket] BAD_LOG - case:(22) data_size:(4) socket:(36) position:(1)
+[06-26-2016 :: 03:14:42] [ContentPacket] SPC_CONTENT_EMPTY - case:(22) socket:(36) position:(1)
+[06-26-2016 :: 03:14:42] [ContentPacket] SEND: packet_type:(4) size:(8) s_op_value:(22!!) data_pos1:() data_pos2:()
+[06-26-2016 :: 03:14:50] [LoginPacket] New connection from 192.168.0.3:51392 on socket-position:(408:2)
+[06-26-2016 :: 03:14:50] [ContentPacket] 
+	 Begin Packet Process: size:(4) op_value:(166) data3:()
+[06-26-2016 :: 03:14:50] [ContentPacket] SERVERTALK2 - case:(166) packet_size:(4) socket:(408) position:(2)
+[06-26-2016 :: 03:14:50] [General] Login server connected for SHUTDOWN on socket-position:(408:2)
+[06-26-2016 :: 03:14:50] [ContentPacket] SEND: packet_type:(4) size:(8) s_op_value:(166!) data_pos1:() data_pos2:()
+[06-26-2016 :: 03:14:50] [General] Closing server flagged connection - socket-position:(408:2)
+[06-26-2016 :: 03:14:50] [ContentPacket] Removed client connection on socket-position:(408:2)
+[06-26-2016 :: 03:14:50] [General] Closing server flagged connection - socket-position:(36:1)
+[06-26-2016 :: 03:14:50] [ContentPacket] Removed client connection on socket-position:(36:1)
+[06-26-2016 :: 03:14:53] [General] End chat log.
+[06-26-2016 :: 03:14:53] [General] Content server shutdown
